@@ -1,4 +1,4 @@
-# CN_projects
+# CN_simple networking
 This project simulates a simple using Cisco Packet Tracer.
 
 ## File
