@@ -1,0 +1,11 @@
+1) do the networking in cisco packet tracer
+
+2) find subnetting mask and number of subnets
+
+3)configure the router 
+
+4)192.168.40.129 and 192.168.40.1 are taken by the router connection(default gate way)so the ip of pc starts from 192.168.40.2 and 192.168.40.130 in both departments 
+
+5)assign ips for pc and default gateway 
+
+6)try to ping between pc's or pc to printers
