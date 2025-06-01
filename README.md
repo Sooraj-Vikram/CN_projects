@@ -1,2 +1,14 @@
 # CN_projects
-This repository contains all my projects related to Computer networks done using tools like Cisco packet tracer and Python tools during my 5th Semester 
+This project simulates a simple using Cisco Packet Tracer.
+
+## Features
+- Static & dynamic IP addressing
+- VLANs and Inter-VLAN routing
+- DHCP & NAT configuration
+- ACL implementation
+
+## File
+- `SimpleNetworking.pkt` – Cisco Packet Tracer project file
+
+## Requirements
+- Cisco Packet Tracer 8.x or higher
